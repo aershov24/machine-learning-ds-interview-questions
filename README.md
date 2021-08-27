@@ -1,4 +1,4 @@
-# 1299 Machine Learning, Data Science & Python Interview Questions (ANSWERED) To Land Your Next Six-Figure Job Offer from [MLStack.Cafe](https://www.mlstack.cafe)
+# 1299 🤖 Machine Learning, Data Science & Python Interview Questions (ANSWERED) To Land Your Next Six-Figure Job Offer from [MLStack.Cafe](https://www.mlstack.cafe)
 
 [MLStack.Cafe](https://www.mlstack.cafe) is the biggest hand-picked collection of top Machine Learning, Data Science, Python and Coding interview questions for Junior and Experienced data analyst, machine learning engineers/developers and data scientists with more that 1299 ML & DS interview questions and answers. Prepare for your next ML, DS & Python interview and land 6-figure job offer in no time.
 

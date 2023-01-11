@@ -1,8 +1,10 @@
-# 1299 🤖 Machine Learning, Data Science & Python Interview Questions (ANSWERED) To Land Your Next Six-Figure Job Offer from [MLStack.Cafe](https://www.mlstack.cafe)
+# 1704 🤖 Machine Learning, Data Science & Python Interview Questions (ANSWERED) To Land Your Next Six-Figure Job Offer from [MLStack.Cafe](https://www.mlstack.cafe)
 
-[MLStack.Cafe](https://www.mlstack.cafe) is the biggest hand-picked collection of top Machine Learning, Data Science, Python and Coding interview questions for Junior and Experienced data analyst, machine learning engineers/developers and data scientists with more that 1299 ML & DS interview questions and answers. Prepare for your next ML, DS & Python interview and land 6-figure job offer in no time.
+[MLStack.Cafe](https://www.mlstack.cafe) is the biggest hand-picked collection of top Machine Learning, Data Science, Python and Coding interview questions for Junior and Experienced data analyst, machine learning engineers/developers and data scientists with more that 1704 ML & DS interview questions and answers. Prepare for your next ML, DS & Python interview and land 6-figure job offer in no time.
 
-🔴  Get All 1299 Answers + PDFs + Latex Math on [MLStack.Cafe - Kill Your ML, DS & Python Interview](https://www.mlstack.cafe/?utm_source=github&utm_medium=mlsciq)
+🔴 Get All 1704 Answers + PDFs + Latex Math on [MLStack.Cafe - Kill Your ML, DS & Python Interview](https://www.mlstack.cafe/?utm_source=github&utm_medium=mlsciq)
+
+👨‍💻 Hiring Data Analysts, Machine Learning Engineers or Developers? [Post your Job on MLStack.Cafe](https://www.mlstack.cafe/?utm_source=github&utm_medium=mlsc-job-posting) and reach thousands of motivated engineers who is looking for a ML Job right now!
 
 ---
 
